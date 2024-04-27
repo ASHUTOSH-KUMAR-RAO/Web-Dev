@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+body, html{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    font-size: 40px;
+    color: crimson;
+}
+
+h2{
+    font-size: 25px;
+    color:salmon;
+}
+
+h3{
+   font-size: 20px;
+    color: blue;
+}
+
+h4{
+    font-size: 50px;
+    color: gray;
+}
